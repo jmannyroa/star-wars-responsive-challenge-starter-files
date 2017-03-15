@@ -1,0 +1,46 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+.nav-bar {
+  height: 70px;
+  background-color: orange;
+
+}
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.card-image {
+  width: 100%;
+}
+
+.card{
+  border: 1px solid gray;
+  margin-top: 20px;
+
+}
+.card-title, .card-description {
+  padding-left: 20px;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
