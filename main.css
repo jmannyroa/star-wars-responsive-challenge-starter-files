@@ -1,3 +1,40 @@
 * {
   box-sizing: border-box;
 }
+
+.nav-bar {
+  background-color: #eebb44;
+  margin-bottom: 40px;
+}
+
+
+.nav-bar {
+  line-height: 1;
+  margin-bottom: 0;
+}
+
+.nav-bar p {
+  margin-top: 0.5em;
+}
+
+.row {
+  border: 1px solid #E5E5E5;
+  margin-bottom: 20px;
+}
+
+.col-4 img {
+  width: 100%;
+}
+
+.col-4 p {
+  padding: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+}
+
+.col-4 p {
+  margin: 0.5em 0;
+}
